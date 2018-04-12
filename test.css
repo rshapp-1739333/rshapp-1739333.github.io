@@ -16,7 +16,7 @@ h3 {
 }
 
 li {
-
+    
 }
 
 a {
@@ -36,7 +36,7 @@ a {
 
 #Header h1 {
     color: #FFBC00;
-    font-size: 30px;
+    font-size: 40px;
     font-family: "Passion One";
     text-align: center;
 }
@@ -57,9 +57,11 @@ a {
     width: 250px;
     height: auto;
     align-content: center;
+    padding-top: 10px;
 }
 
 ul {
+    display: inline;
     list-style-type: none;
 }
 
