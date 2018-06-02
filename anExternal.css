@@ -1,0 +1,15 @@
+#P1 {
+    color:darkslategrey;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+
+#P2 {
+    color: orangered;
+    font-family: "Roboto";
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
