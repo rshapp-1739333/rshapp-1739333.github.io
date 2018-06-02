@@ -14,21 +14,26 @@
 }
 
 #Apprentice {
-    position:relative;
+    position: relative;
     height: 200px;
     width: 240px;
-    border:dotted;
+    text-align: center;
+    vertical-align: middle;
 }
 
 #Apprentice img {
+    position: absolute;
+    left: 0;
+    top: 0;
     width: 200px;
     height: 200px;
     margin-left: 20px;
     margin-right: 20px;
+    float: left;
 }
 
 .text-over-image {
-    position: absolute;
+    line-height: 200px;
 }
 
 .small-img {
